@@ -49,6 +49,7 @@ img {
     gap: 6em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
+    height: 70%;
     /* top margin of 3em and center right/left */
     margin: 3em auto;
 }
