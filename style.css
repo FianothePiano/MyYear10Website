@@ -7,7 +7,7 @@ html {
     /* The Font Family- Really important!! */
     font-family: Arial, sans-serif;
     box-sizing: border-box;
-    background-color: rgb(51, 47, 66);
+    background-color: rgb(29, 27, 54);
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
@@ -47,7 +47,7 @@ img {
 .topic-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    background-color: rgb(51, 47, 66);
+    background-color: rgb(29, 27, 54);
     gap: 6em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
